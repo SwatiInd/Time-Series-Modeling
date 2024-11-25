@@ -15,9 +15,13 @@ Machine learning supervised models (e.g.: linear regression, random forest etc.)
 Supervised models are good in forecasting of time series data but they require intense feature engineering. Deep learning methods (CNN, RNN, and LSTM) are useful in time series forecasting.
 
 4. Advanced and specific models:
+   
    (a) Prophet - Facebook
+   
    (b) DeepAR - Amazon
+   
    (c) GARCH -
+   
    (d) TBATS -
 
  
